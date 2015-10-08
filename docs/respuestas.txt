@@ -1,1 +1,4 @@
 Trabajo en equipo con git
+La compilacion convierte el codigo fuente en un ejecutable gracias al compilador, mientras que el interprete ejecuta linea a linea las instrucciones sin generar codigo maquina
+
+La diferencia radica en que al contener #! /bin/sh se llama al interprete directamente al ejecutar el archivo, de la otra forma habria que escribir ruby helloWorld.rb
